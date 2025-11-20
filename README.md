@@ -1,1 +1,8 @@
 # Myy_First_Project
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>Hello Web Dev Tools!</h1>
+    <script src="script.js"></script>
+  </body>
+</html>
